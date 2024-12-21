@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.animalgame.app-mergeDebugResources-31:/values-large-v4/values-large-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\yahya\\Downloads\\لعبة (1)\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "from": {
+                        "startLines": "13,14,12,8,17,18,26,7,22,21,23,9,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "421,473,376,248,548,598,857,200,727,680,775,296,83,129",
+                        "endColumns": "51,44,44,47,49,45,43,47,47,46,51,47,45,45",
+                        "endOffsets": "468,513,416,291,593,639,896,243,770,722,822,339,124,170"
+                    },
+                    "to": {
+                        "startLines": "9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "532,584,629,674,722,772,818,862,910,958,1005,1057,1105,1151",
+                        "endColumns": "51,44,44,47,49,45,43,47,47,46,51,47,45,45",
+                        "endOffsets": "579,624,669,717,767,813,857,905,953,1000,1052,1100,1146,1192"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\yahya\\.gradle\\caches\\8.9\\transforms\\886be40b28c2d791d1893ee66cd99883\\transformed\\appcompat-1.6.1\\res\\values-large-v4\\values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,185,256,326,396,464,532,636",
+                        "endColumns": "58,70,70,69,69,67,67,103,115",
+                        "endOffsets": "109,180,251,321,391,459,527,631,747"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,23,24",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,185,256,326,396,464,1197,1301",
+                        "endColumns": "58,70,70,69,69,67,67,103,115",
+                        "endOffsets": "109,180,251,321,391,459,527,1296,1412"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\yahya\\.gradle\\caches\\8.9\\transforms\\c0abbd9696f6e918c73ea2b7bef60ca4\\transformed\\material-1.10.0\\res\\values-large-v4\\values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,169,285,407",
+                        "endColumns": "113,115,121,133",
+                        "endOffsets": "164,280,402,536"
+                    },
+                    "to": {
+                        "startLines": "25,26,27,28",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "1417,1531,1647,1769",
+                        "endColumns": "113,115,121,133",
+                        "endOffsets": "1526,1642,1764,1898"
+                    }
+                }
+            ]
+        }
+    ]
+}

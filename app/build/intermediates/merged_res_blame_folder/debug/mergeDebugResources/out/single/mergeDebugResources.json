@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "com.example.animalgame.app-debug-33:/drawable_giraffe.xml.flat",
+        "source": "com.example.animalgame.app-main-35:/drawable/giraffe.xml"
+    },
+    {
+        "merged": "com.example.animalgame.app-debug-33:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.animalgame.app-main-35:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.animalgame.app-debug-33:/drawable_elephant.xml.flat",
+        "source": "com.example.animalgame.app-main-35:/drawable/elephant.xml"
+    },
+    {
+        "merged": "com.example.animalgame.app-debug-33:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.animalgame.app-main-35:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.animalgame.app-debug-33:/drawable_celebration_trophy.xml.flat",
+        "source": "com.example.animalgame.app-main-35:/drawable/celebration_trophy.xml"
+    },
+    {
+        "merged": "com.example.animalgame.app-debug-33:/drawable_background_gradient.xml.flat",
+        "source": "com.example.animalgame.app-main-35:/drawable/background_gradient.xml"
+    },
+    {
+        "merged": "com.example.animalgame.app-debug-33:/drawable_letter_box_custom.xml.flat",
+        "source": "com.example.animalgame.app-main-35:/drawable/letter_box_custom.xml"
+    },
+    {
+        "merged": "com.example.animalgame.app-debug-33:/drawable_button_background.xml.flat",
+        "source": "com.example.animalgame.app-main-35:/drawable/button_background.xml"
+    },
+    {
+        "merged": "com.example.animalgame.app-debug-33:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.animalgame.app-main-35:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.animalgame.app-debug-33:/drawable_animals_group.png.flat",
+        "source": "com.example.animalgame.app-main-35:/drawable/animals_group.png"
+    },
+    {
+        "merged": "com.example.animalgame.app-debug-33:/drawable_ic_backspace.xml.flat",
+        "source": "com.example.animalgame.app-main-35:/drawable/ic_backspace.xml"
+    },
+    {
+        "merged": "com.example.animalgame.app-debug-33:/drawable_letter_button_background.xml.flat",
+        "source": "com.example.animalgame.app-main-35:/drawable/letter_button_background.xml"
+    },
+    {
+        "merged": "com.example.animalgame.app-debug-33:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.animalgame.app-main-35:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.animalgame.app-debug-33:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.animalgame.app-main-35:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.animalgame.app-debug-33:/layout_activity_main.xml.flat",
+        "source": "com.example.animalgame.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.animalgame.app-debug-33:/drawable_ic_level.xml.flat",
+        "source": "com.example.animalgame.app-main-35:/drawable/ic_level.xml"
+    },
+    {
+        "merged": "com.example.animalgame.app-debug-33:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.animalgame.app-main-35:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.animalgame.app-debug-33:/drawable_main_background.xml.flat",
+        "source": "com.example.animalgame.app-main-35:/drawable/main_background.xml"
+    },
+    {
+        "merged": "com.example.animalgame.app-debug-33:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.animalgame.app-main-35:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.animalgame.app-debug-33:/layout_activity_game.xml.flat",
+        "source": "com.example.animalgame.app-main-35:/layout/activity_game.xml"
+    },
+    {
+        "merged": "com.example.animalgame.app-debug-33:/layout_celebration_dialog.xml.flat",
+        "source": "com.example.animalgame.app-main-35:/layout/celebration_dialog.xml"
+    },
+    {
+        "merged": "com.example.animalgame.app-debug-33:/drawable_level_background.xml.flat",
+        "source": "com.example.animalgame.app-main-35:/drawable/level_background.xml"
+    },
+    {
+        "merged": "com.example.animalgame.app-debug-33:/drawable_ic_exit.xml.flat",
+        "source": "com.example.animalgame.app-main-35:/drawable/ic_exit.xml"
+    },
+    {
+        "merged": "com.example.animalgame.app-debug-33:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.animalgame.app-main-35:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.animalgame.app-debug-33:/drawable_app_logo.xml.flat",
+        "source": "com.example.animalgame.app-main-35:/drawable/app_logo.xml"
+    },
+    {
+        "merged": "com.example.animalgame.app-debug-33:/drawable_letter_button_background_disabled.xml.flat",
+        "source": "com.example.animalgame.app-main-35:/drawable/letter_button_background_disabled.xml"
+    },
+    {
+        "merged": "com.example.animalgame.app-debug-33:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.animalgame.app-main-35:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.animalgame.app-debug-33:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.animalgame.app-main-35:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.animalgame.app-debug-33:/drawable_ic_delete.xml.flat",
+        "source": "com.example.animalgame.app-main-35:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.example.animalgame.app-debug-33:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.animalgame.app-main-35:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.animalgame.app-debug-33:/drawable_game_logo.xml.flat",
+        "source": "com.example.animalgame.app-main-35:/drawable/game_logo.xml"
+    },
+    {
+        "merged": "com.example.animalgame.app-debug-33:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.animalgame.app-main-35:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.animalgame.app-debug-33:/drawable_letter_box_background.xml.flat",
+        "source": "com.example.animalgame.app-main-35:/drawable/letter_box_background.xml"
+    },
+    {
+        "merged": "com.example.animalgame.app-debug-33:/drawable_image_gradient.xml.flat",
+        "source": "com.example.animalgame.app-main-35:/drawable/image_gradient.xml"
+    },
+    {
+        "merged": "com.example.animalgame.app-debug-33:/drawable_letter_box_style.xml.flat",
+        "source": "com.example.animalgame.app-main-35:/drawable/letter_box_style.xml"
+    },
+    {
+        "merged": "com.example.animalgame.app-debug-33:/drawable_level_image_background.xml.flat",
+        "source": "com.example.animalgame.app-main-35:/drawable/level_image_background.xml"
+    },
+    {
+        "merged": "com.example.animalgame.app-debug-33:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.animalgame.app-main-35:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.animalgame.app-debug-33:/drawable_penguin.xml.flat",
+        "source": "com.example.animalgame.app-main-35:/drawable/penguin.xml"
+    },
+    {
+        "merged": "com.example.animalgame.app-debug-33:/drawable_lion.xml.flat",
+        "source": "com.example.animalgame.app-main-35:/drawable/lion.xml"
+    }
+]

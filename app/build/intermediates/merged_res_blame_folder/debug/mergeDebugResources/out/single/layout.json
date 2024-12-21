@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.animalgame.app-mergeDebugResources-32:/layout/activity_game.xml",
+        "source": "com.example.animalgame.app-main-35:/layout/activity_game.xml"
+    },
+    {
+        "merged": "com.example.animalgame.app-mergeDebugResources-32:/layout/celebration_dialog.xml",
+        "source": "com.example.animalgame.app-main-35:/layout/celebration_dialog.xml"
+    },
+    {
+        "merged": "com.example.animalgame.app-mergeDebugResources-32:/layout/activity_main.xml",
+        "source": "com.example.animalgame.app-main-35:/layout/activity_main.xml"
+    }
+]

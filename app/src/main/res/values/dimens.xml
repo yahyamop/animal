@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Screen margins -->
+    <dimen name="screen_padding">16dp</dimen>
+    <dimen name="section_margin">16dp</dimen>
+
+    <!-- Text sizes -->
+    <dimen name="header_text_size">24sp</dimen>
+    <dimen name="button_text_size">16sp</dimen>
+    <dimen name="letter_text_size">20sp</dimen>
+
+    <!-- Button dimensions -->
+    <dimen name="button_margin">8dp</dimen>
+    <dimen name="button_corner_radius">20dp</dimen>
+    <dimen name="button_height">48dp</dimen>
+
+    <!-- Card dimensions -->
+    <dimen name="card_corner_radius">16dp</dimen>
+    <dimen name="card_elevation">8dp</dimen>
+
+    <!-- Letter box dimensions -->
+    <dimen name="letter_box_size">40dp</dimen>
+    <dimen name="letter_box_margin">4dp</dimen>
+    <dimen name="letter_box_text_size">20sp</dimen>
+
+    <!-- Grid dimensions -->
+    <dimen name="grid_spacing">8dp</dimen>
+</resources>

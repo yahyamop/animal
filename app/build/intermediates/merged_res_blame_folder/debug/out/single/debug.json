@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-merged_res-29:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-main-31:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-merged_res-29:\\drawable_penguin.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-main-31:\\drawable\\penguin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-merged_res-29:\\layout_celebration_dialog.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-main-31:\\layout\\celebration_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-merged_res-29:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-main-31:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-merged_res-29:\\drawable_giraffe.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-main-31:\\drawable\\giraffe.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-main-31:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-merged_res-29:\\drawable_ic_play.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-main-31:\\drawable\\ic_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-merged_res-29:\\drawable_app_logo.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-main-31:\\drawable\\app_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-merged_res-29:\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-main-31:\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "com.example.animalgame.app-merged_res-29:/drawable_ic_next.xml.flat",
+        "source": "com.example.animalgame.app-main-31:/drawable/ic_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-merged_res-29:\\drawable_ic_game_logo.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-main-31:\\drawable\\ic_game_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-merged_res-29:\\drawable_animals_group.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-main-31:\\drawable\\animals_group.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-merged_res-29:\\drawable_game_logo.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-main-31:\\drawable\\game_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-merged_res-29:\\drawable_letter_boxes_background.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-main-31:\\drawable\\letter_boxes_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-merged_res-29:\\layout_activity_game.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-main-31:\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-merged_res-29:\\drawable_background_gradient.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-main-31:\\drawable\\background_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-main-31:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-merged_res-29:\\drawable_celebration_trophy.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-main-31:\\drawable\\celebration_trophy.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-main-31:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-merged_res-29:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-main-31:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-merged_res-29:\\drawable_elephant.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-main-31:\\drawable\\elephant.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-merged_res-29:\\drawable_ic_backspace.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-main-31:\\drawable\\ic_backspace.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-main-31:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-merged_res-29:\\drawable_lion.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-main-31:\\drawable\\lion.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-merged_res-29:\\drawable_ic_help.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-main-31:\\drawable\\ic_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-merged_res-29:\\drawable_button_background.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-main-31:\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-merged_res-29:\\drawable_dialog_background.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-main-31:\\drawable\\dialog_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-merged_res-29:\\drawable_letter_box_background.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-main-31:\\drawable\\letter_box_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-merged_res-29:\\drawable_ic_exit.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-main-31:\\drawable\\ic_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-merged_res-29:\\drawable_ic_lightbulb.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-main-31:\\drawable\\ic_lightbulb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-merged_res-29:\\layout_dialog_game_complete.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.9\\com.example.animalgame.app-main-31:\\layout\\dialog_game_complete.xml"
+    }
+]
